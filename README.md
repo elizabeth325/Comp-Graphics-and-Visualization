@@ -1,13 +1,7 @@
 # Comp-Graphics-and-Visualization
 
-    How do I approach designing software?
-        What new design skills has your work on the project helped you to craft?
-        What design process did you follow for your project work?
-        How could tactics from your design approach be applied in future work?
-    How do I approach developing programs?
-        What new development strategies did you use while working on your 3D scene?
-        How did iteration factor into your development?
-        How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-    How can computer science help me in reaching my goals?
-        How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-        How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+I approach designing software by first focusing on what my goal is and then breaking that down into smaller goals. My work on this project has helped my craft my visualization skills. Graphics is far from my favorite aspect of programming but it was a rewarding project to work on. I modularized my code as much as possible and kept it simple even when dealing with complex concepts. This modularizing approach can be used in almost all programming work. 
+
+I don't normally code by just throwing things at the wall and seeing what sticks, but I discovered that with this project that was often the method that worked. I would do the same thing over and over again just slightly changing one or two lines until I saw the result I wanted. This was not an approach that I was using at the beginning of the class, but each milestone encouraged me to move in that direction. I became looser in the way that I was programming and allowed the code to be a little more artistic. 
+
+As a computer science student, the skills learned in Computational Graphics and Visualizations will be very helpful in both my educational and professional pathways. Graphics is a huge part of computer science and it is growing every day. The world is becoming more and more reliant on good looking graphics. It is how business is done, school is taught, and ideas shared. As such, it is very likely that I will be called upon to write more graphical code in the future and I am now prepared to do so.
